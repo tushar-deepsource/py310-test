@@ -1,0 +1,3 @@
+[MASTER]
+jobs=1
+load-plugins="path/to/some/plugin"
