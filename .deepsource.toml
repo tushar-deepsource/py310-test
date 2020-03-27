@@ -8,8 +8,6 @@ enabled = true
   runtime_version = "3.x.x"
   additional_builtins = [
     "_",
-    "__",
-    "something"
   ]
   
 [[analyzers]]
