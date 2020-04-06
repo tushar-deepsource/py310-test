@@ -1,0 +1,6 @@
+agilepoint
+agileutil
+numpy
+pandas
+django
+flask
