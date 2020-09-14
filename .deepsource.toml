@@ -10,11 +10,3 @@ dependency_file_paths = ["req.txt"]
   additional_builtins = [
     "_",
   ]
-  
-[[analyzers]]
-name = "terraform"
-enabled = true
-
-[[analyzers]]
-name = "docker"
-enabled = true
