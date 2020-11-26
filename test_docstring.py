@@ -7,6 +7,5 @@ def has_blankline(target: Optional[str]) -> bool:
     :return: flag signalling whether redirect is safe
     :rtype: bool
     """
-    
     if not target:
         return False
