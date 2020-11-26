@@ -7,6 +7,5 @@ def is_redirect_safe(target: Optional[str]) -> bool:
     :return: flag signalling whether redirect is safe
     :rtype: bool
     """
-
     if not target:
         return False
