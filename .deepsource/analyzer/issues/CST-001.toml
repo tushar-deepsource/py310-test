@@ -1,0 +1,16 @@
+title = "My Custom title"
+severity = "major"
+category = "antipattern"
+description = """
+This is a custom issues.
+
+Not preferred:
+```python
+print("Don't do this!")
+```
+
+Preferred:
+```python
+Print("Do this!")
+```
+"""
