@@ -10,3 +10,7 @@ dependency_file_paths = ["req.txt"]
   additional_builtins = [
     "_",
   ]
+
+[[analyzers]]
+name = "github.com/srijan-deepsource/blacklister"
+enabled = true
