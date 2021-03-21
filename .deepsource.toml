@@ -12,9 +12,5 @@ dependency_file_paths = ["req.txt"]
   ]
 
 [[analyzers]]
-name = "github.com/srijan-deepsource/blacklister"
-enabled = true
-
-[[analyzers]]
-name = "github.com/srijan-deepsource/hanger"
+name = "shell"
 enabled = true
