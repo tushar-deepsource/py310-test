@@ -10,6 +10,7 @@ dependency_file_paths = ["req.txt"]
   additional_builtins = [
     "_",
   ]
+  type_checker = "mypy"
 
 [[analyzers]]
 name = "shell"
