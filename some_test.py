@@ -1,7 +1,8 @@
 import os
 
 class C:
-    def something(self):
+    @staticmethod
+    def something():
       print("Hey there!")
     
     def something_else(self):
