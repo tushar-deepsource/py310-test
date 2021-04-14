@@ -1,14 +1,14 @@
 # inside a func def
 def some_function(args):
     """Docstring."""
-    assert 1 > 2, (
+    assert 1  > 2, (
         "Some message"
     )
 
     if args != []:
         raise AssertionError
 
-some_function(123)
+some_function('123')
 
 
 #Comment
