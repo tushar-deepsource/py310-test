@@ -1,7 +1,6 @@
 import os
 
 class C:
-    @staticmethod
     def something():
       print("Hey there!")
     
