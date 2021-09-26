@@ -20,3 +20,8 @@ enabled = true
 [[analyzers]]
 name = "terraform"
 enabled = true
+
+
+[[transformers]]
+name = "rustfmt"
+enabled = true
