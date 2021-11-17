@@ -4,3 +4,4 @@ numpy
 sqlfluff
 gevent
 flakehell
+eventlet==0.32.0
