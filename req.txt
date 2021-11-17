@@ -6,3 +6,5 @@ return
 seven
 DDP
 gevent
+flakehell
+eventlet==0.32.0
