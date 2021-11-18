@@ -7,3 +7,5 @@ match status_code:
         print('Not found')
     case _:
         print('IDK')
+
+import os
