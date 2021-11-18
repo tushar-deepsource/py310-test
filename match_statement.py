@@ -9,3 +9,5 @@ match status_code:
         print('IDK')
 
 import os
+
+exit(1)
